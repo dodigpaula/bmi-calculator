@@ -1,0 +1,52 @@
+body{
+    font-family: "Arvo";
+}
+
+h1{
+    background-color: rgb(158, 207, 248);
+    font-size: 80px;
+    text-align: center;
+    padding: 50px;
+}
+
+p{
+    padding: 4rem;
+    border-top: 10rem;
+    font-size: 20px;
+}
+
+button{
+    font-family: "Arvo";
+    font-size: 20px;
+    background-color: rgb(158, 207, 248);
+    margin-bottom: 5rem;
+}
+
+.center{
+    text-align: center;
+    font-size: 20px
+}
+
+#calc{
+    margin-bottom: 3rem;
+}
+
+#kg{
+    margin-right: 5rem;
+}
+
+#cm{
+    margin-right: 3rem;
+}
+
+#w{
+    font-size: 20px;
+}
+
+#h{
+    font-size: 20px
+}
+
+#health-status{
+    font-weight: bold;
+}
